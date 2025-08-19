@@ -5,7 +5,7 @@ import Assingment1.utilities.EmployeeUtilities;
 
 public class AssignmentMain {
 	public static void main(String[] args) {
-        manager m = new manager();
+        Manager m = new Manager();
         m.setEmployeeId(1);
         m.setName("Alice");
         m.setSalary(90000);

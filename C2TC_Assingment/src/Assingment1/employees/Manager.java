@@ -1,6 +1,6 @@
 package Assingment1.employees;
 
-public class Manager {
+public class Manager extends Employee {
 	 private String department;
 
 	    public String getDepartment() {
